@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#wrapper{
+    height: 100vh;
+    background-color: rgb(30, 72, 72);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#wrapper .rslt{
+    background-color: rgb(198, 132, 132);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#wrapper button{
+    cursor: pointer;
+    padding: 10px;
+    border: 0;
+ }
+
+
